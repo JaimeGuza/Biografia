@@ -8,3 +8,5 @@ Ocupación: Estudiante
 Escuela: La vida
 Carrera: Ingeniero
 
+Nombre: Eduardo
+Apellidos: López
