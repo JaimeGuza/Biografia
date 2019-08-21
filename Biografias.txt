@@ -8,8 +8,12 @@ Ocupación: Estudiante
 Escuela: La vida
 Carrera: Ingeniero
 
+//////////////////////////////////////
 Nombre: Eduardo
 Apellidos: López
+Edad: 22 años
+Ocupación: Estudiante de Ingeniería
+//////////////////////////////////////
 
 Name: Abisai
 Surname: Madera
