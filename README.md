@@ -1,5 +1,5 @@
 # Biografia
 
--[Biografia](#biografia)
+- [Biografia](#biografia)
 
 Este es un repositorio para el adiestramiento de trabajo en equipo
