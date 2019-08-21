@@ -1,10 +1,10 @@
 Nombre: Jaime   
-Apellidos: Guzmán Zavala
-Lugar de origen: Huajuapan de L.
+Apellidos: G.
+Lugar de origen: La nuez
 
 Edad: 23 años
 Ocupación: Estudiante
 
-Escuela: UTM
-Carrera: Ing. en Mecatrónica
+Escuela: La vida
+Carrera: Ingeniero
 
