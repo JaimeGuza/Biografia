@@ -4,4 +4,4 @@
 
 Este es un repositorio para el adiestramiento de trabajo en equipo
 
-![Prueba de git ignore](./imagenes/ignore.png "Prueba para ignorar archivos")
+![Prueba de git ignore](./ignore.png "Prueba para ignorar archivos")
